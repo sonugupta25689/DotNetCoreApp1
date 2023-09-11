@@ -11,7 +11,7 @@ What is the architecture of the Application?
 
     this is the url of Github Account after creating the Repository
     https://github.com/sonugupta25689/DotNetCoreApp1.git
-    
+
     Github Downloading URL for Windows
     https://desktop.github.com/
 
@@ -24,5 +24,16 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/ygoyal3/DotNetCoreAp.git
+git remote add origin https://github.com/sonugupta25689/DotNetCoreApp1.git
+git add .
+git push -u origin main
+
+
+Command for Running 
+git init
+git status
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sonugupta25689/DotNetCoreApp1.git  (Url is given after creating the Repository)
+git add .
 git push -u origin main
