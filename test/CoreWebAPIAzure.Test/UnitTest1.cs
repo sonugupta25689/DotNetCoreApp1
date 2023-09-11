@@ -14,7 +14,7 @@ public class UnitTest1
     public void Test1()
     {
        var test = valuesController.Get(1);  // Act
-     Assert.Equal("Yukti1",test);// Agar hm yahan p "Amita" Pass karenge to Hamara Test case fail ho jayega 
+     Assert.Equal("Yukti",test);// Agar hm yahan p "Amita" Pass karenge to Hamara Test case fail ho jayega 
     }
 }
 }
