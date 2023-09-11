@@ -26,7 +26,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/sonugupta25689/DotNetCoreApp1.git
 git add .
-git push -u origin main
+git push origin main
 
 
 Command for Running 
